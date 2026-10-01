@@ -7,7 +7,7 @@ Dear Customer,
 Your order has been successfully confirmed.
 
 Order ID: GS-33019482
-Date : 01/10/2026
+Date : 01-Oct-2026
 Purchase Date: October 1, 2026
 Service: Webroot Internet Security Subscription
 Term: 12 Months
@@ -21,4 +21,4 @@ Customer Care: +1 (843) 224-4943
 
 Thank you.
 
-<!-- Round 1 · 2026-10-01 20:40:35 · R5WG1OOn · memanmogli@hotmail.com, aarodriguez3@gmail.com -->
+<!-- Round 2 · 2026-10-01 20:40:59 · j92HDEXb · jjmitchko@aol.com, ktart2001@yahoo.com -->
